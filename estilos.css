@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body{background-color: #ecebeb;
+    font-family:"Roboto Mono", monospace;
+    font-weight: 200;
+    color: #808080;
+}
+
+h1,h2,h3,h4,a{
+font-family: "Roboto Condensed", sans-serif;
+font-weight: 800;
+color: #FF4500;
+}
+h3{font-weight: 600;}
+h4{font-weight: 300;}
+#Subrayado
+{text-decoration: underline;}
+
+
+
+
+
